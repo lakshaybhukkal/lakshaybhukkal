@@ -1,0 +1,7 @@
+- 👋 Hi, I’m lakshay
+- Currently I am working on ASP.NET MVC CORE WITH MSSQL SERVER ON BACKEND,
+- ASP .NET CORE WEB APIS,
+- ASP.NET CORE BACKEND WITH ANGULAR.JS AND
+- NODE WITH REACT.JS AND MONGODB
+- I am a Fresher looking for jobs now
+- 📫 email - lakshaybhukkal@gmail.com
