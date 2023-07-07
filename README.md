@@ -1,4 +1,5 @@
-- 👋 Hi, I’m lakshay
+- 👋 Hi, I’m Lakshay
+- I had done my Post Graduation in MSc IT from PUCHD
 - Currently I am working on ASP.NET MVC CORE WITH MSSQL SERVER ON BACKEND,
 - ASP .NET CORE WEB APIS,
 - ASP.NET CORE BACKEND WITH ANGULAR.JS AND
